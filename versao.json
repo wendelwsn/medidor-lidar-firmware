@@ -1,6 +1,6 @@
 {
-  "versao": "8.0.7",
+  "versao": "8.0.8",
   "url": "https://raw.githubusercontent.com/wendelwsn/medidor-lidar-firmware/main/firmware.bin",
-  "tamanho": 1616352,
-  "sha256": "c9d3746dc2f927b99ce04d2bddd58fdb03e59b15e80197b791db12aa28f25ac1"
+  "tamanho": 1606784,
+  "sha256": "a728722a6db9be240242b0f7d5422b4d73dcb78624d449be1095cbf5cac14437"
 }
